@@ -9,7 +9,7 @@ public class ConnectionFactory {
     private String URL = "jdbc:mysql://localhost:3306/db_pedro_pedreiro";
     private String USER = "root";
     private String PASSWORD = "152127";
-//    private String PASSWORD = "";
+//    private String PASSWORD = "123456";
 
     public Connection getConnection(){
         try{
