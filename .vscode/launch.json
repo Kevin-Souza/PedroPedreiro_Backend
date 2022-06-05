@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PedropedreiroApiApplicationTests",
+            "request": "launch",
+            "mainClass": "br.com.pedropedreiro.pedropedreiro_api.PedropedreiroApiApplicationTests",
+            "projectName": "pedropedreiro_api"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PedropedreiroApiApplication<pedropedreiro_api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.pedropedreiro.pedropedreiro_api.PedropedreiroApiApplication",
+            "projectName": "pedropedreiro_api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
